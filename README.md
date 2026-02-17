@@ -1,4 +1,4 @@
-# Solar Cell Power React App
+# Codex test with React App
 
 This project has been converted to a React application with client-side routing using **React Router**. To run the project locally:
 
